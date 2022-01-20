@@ -15,7 +15,7 @@
 
 ### Capa
 <p>
-  <img src="https://github.com/AndreHabib/NLW-Together---PayFlow-/blob/master/payflow/assets/images/capa-git.png" alt="InAndOut" />
+  <img src="https://github.com/AndreHabib/InAndOut/blob/master/image.png" alt="InAndOut" />
 </p>
 
 ### Aplicações
