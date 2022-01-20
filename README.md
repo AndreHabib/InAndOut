@@ -25,7 +25,7 @@
 ### Tecnologias
 
 - C#.
-- HTML.
+- Bootstrap.
 
 ### Estrutura
 
